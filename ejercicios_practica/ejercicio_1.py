@@ -29,5 +29,8 @@
 # listas
 # bucles
 
+contenidos_curso = ['python', 'variables', 'condicionales', 'listas', 'bucles']
 
 # Imprimir en pantalla la variable contenidos_curso
+
+print(contenidos_curso)
